@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryan_bramhane
+- 🌱I'm java enthusiast  
 - 👀 I’m interested in meeting new coders and love to code
-- 🌱 I’m currently learning java and git/github
 - 💞️ I’m looking to collaborate on Andriod Devlopment and Java projects
 - 📫 How to reach me aryanbramhane1@gmail.com
 
